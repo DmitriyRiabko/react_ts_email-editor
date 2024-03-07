@@ -1,3 +1,7 @@
+import styles from './EmailList.module.scss'
+
+
 export function EmailList() {
-    return <div>EmailList</div>
+    return <div className={styles.list}>
+        EmailList</div>
 }
