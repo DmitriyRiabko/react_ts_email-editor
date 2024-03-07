@@ -1,13 +1,19 @@
 
 
 
+.preview{
+  margin-bottom: 1.5rem;
+  border:  1px solid #2e2e2e;
+  padding: 0.5rem;
+  border-radius: 10px;
+}
+
 
 .card {
   background-color: rgba($color: #000, $alpha: 0.4);
   border-radius: 10px;
   overflow: hidden;
   border: 1px solid #262626;
-
 
   .editor{
     padding: 1.2em;
